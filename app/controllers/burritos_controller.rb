@@ -1,4 +1,4 @@
-BurritosController < ApplicationController
+class BurritosController < ApplicationController
 
 	def index
 	end
